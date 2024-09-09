@@ -1,6 +1,6 @@
 # GAN ile BAF Veri Setinden Yapay Veri Üretimi
 
-Bu projemde, Generative Adversarial Network (GAN) kullanarak BAF veri setinden sahte veriler üretmek üzerine çalıştım.
+Bu projemde, Generative Adversarial Network (GAN) kullanarak BAF veri setinden yapay veriler üretmek üzerine çalıştım.
 - **Tüm Staj Notları:** https://www.canva.com/design/DAGN59Iykzc/AQAPgHjoHkupfRnHfsHTkQ/edit?utm_content=DAGN59Iykzc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Proje Yapısı

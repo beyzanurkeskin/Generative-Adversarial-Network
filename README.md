@@ -2,14 +2,6 @@
 
 Bu projemde, Generative Adversarial Network (GAN) kullanarak BAF veri setinden sahte veriler üretmek üzerine çalıştım.
 
-## İçindekiler
-- [Proje Yapısı](#proje-yapısı)
-- [Kullanılan Kütüphaneler](#kullanılan-kütüphaneler)
-- [Kullanım](#kullanım)
-- [Mentor Geri Bildirimi ve Geliştirmeler](#mentor-geri-bildirimi-ve-geliştirmeler)
-- [Gelecek Geliştirmeler](#gelecek-geliştirmeler)
-- [Lisans](#lisans)
-
 ## Proje Yapısı
 
 ### 1. Veri Ön İşleme

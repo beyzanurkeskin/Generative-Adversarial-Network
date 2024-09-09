@@ -1,6 +1,6 @@
 # GAN ile BAF Veri Setinden Yapay Veri Üretimi
 
-Bu proje, Generative Adversarial Network (GAN) kullanarak BAF veri setinden sahte veriler üretmek için geliştirilmiştir. Bu sahte veriler, dolandırıcılık tespiti gibi alanlarda kullanılabilir.
+Bu projemde, Generative Adversarial Network (GAN) kullanarak BAF veri setinden sahte veriler üretmek üzerine çalıştım.
 
 ## İçindekiler
 - [Proje Yapısı](#proje-yapısı)
@@ -44,8 +44,6 @@ Bu proje, Generative Adversarial Network (GAN) kullanarak BAF veri setinden saht
 - `pickle`
 
 ## Kullanım
-
-### 1. Bağımlılıkların Yüklenmesi
 
 Proje gereksinimlerini yüklemek için aşağıdaki komutu çalıştırın:
 ```bash

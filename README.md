@@ -5,6 +5,7 @@ Bu projemde, Generative Adversarial Network (GAN) kullanarak BAF veri setinden s
 ## Proje Yapısı
 
 ### 1. Veri Ön İşleme
+- **BAF Veri Seti Dosyası:** https://drive.google.com/file/d/1hGVjDl1daPL3HHH-S9pmNTJ0ppPKdQso/view?usp=sharing
 - **Veri Yükleme:** BAF veri seti `base.csv` dosyasından yüklenir.
 - **Kategorik Verilerin Dönüşümü:** Kategorik değişkenler `OneHotEncoder` ile dönüştürülür.
 - **Veri Ölçeklendirme:** Sürekli değişkenler `MinMaxScaler` ile ölçeklendirilir.
@@ -26,6 +27,7 @@ Bu projemde, Generative Adversarial Network (GAN) kullanarak BAF veri setinden s
 - **Veri Üretimi:** Kayıtlı Generator modeli ile sahte veri üretilir.
 - **Ölçeklendirme:** Üretilen sayısal veriler ters ölçeklendirilir.
 - **Sonuç Karşılaştırma:** Gerçek ve yapay veriler histogramlar aracılığıyla karşılaştırılır.
+- **Yapay Veri Dosyası:** https://drive.google.com/file/d/1Oi6PujIDjLgkYunO19nKZScd5nQSsqwc/view?usp=sharing
 
 ## Kullanılan Kütüphaneler
 
